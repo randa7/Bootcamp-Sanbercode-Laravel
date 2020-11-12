@@ -1,0 +1,77 @@
+
+body{
+    background-image: url(../assets/img/pattern.jpg);
+    background-size: cover;
+    margin: 0;
+    font-family: 'Slabo 27px';
+    
+}
+header{
+    position: sticky;
+    background-color: white;
+    top: 0;
+}
+
+.fixedd{
+    float: right;
+    margin-top: -35px;
+}
+
+.flex-item{
+
+    color: #00a2c6;
+    padding: 7px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section{
+    width: 75%;
+    background-color: white;
+    margin-left:12.5% ;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+section h1{
+    text-align: center;
+    padding-top:10px;
+    
+}
+article{
+    border-bottom: 1px solid black;
+}
+article a{
+    
+    text-decoration: none;
+    font-weight: 900;
+    font-size: large;
+}
+
+article h3{
+    margin-top: 50px;
+}
+
+article p{
+    font-weight: 300;
+    
+}
+
+footer{
+    bottom: 0px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 40px;
+    margin-top: 5px;
+    padding: 10px;
+    
+}
+
+footer h5{
+    margin-top: 10px;
+    font-weight: bold;
+   
+}
